@@ -1,0 +1,716 @@
+{
+	"summary": {
+		"queryType": "NEARBY",
+		"queryTime": 52,
+		"numResults": 10,
+		"offset": 0,
+		"totalResults": 93445,
+		"fuzzyLevel": 1,
+		"geoBias": {
+			"lat": 19.254108,
+			"lon": 73.120211
+		}
+	},
+	"results": [
+		{
+			"type": "POI",
+			"id": "g6JpZK8zNTYwMDkwMzgzOTA0OTKhY6NJTkShdqdVbmlmaWVk",
+			"score": 99.9549636841,
+			"dist": 45.03493710148695,
+			"info": "search:ta:356009038390492-IN",
+			"poi": {
+				"name": "Hanuman Mandir, Vadegher",
+				"categorySet": [
+					{
+						"id": 7339005
+					}
+				],
+				"categories": [
+					"place of worship",
+					"temple"
+				],
+				"classifications": [
+					{
+						"code": "PLACE_OF_WORSHIP",
+						"names": [
+							{
+								"nameLocale": "en-US",
+								"name": "temple"
+							},
+							{
+								"nameLocale": "en-US",
+								"name": "place of worship"
+							}
+						]
+					}
+				]
+			},
+			"address": {
+				"streetName": "Wadeghar Gaon Road, Balak Mandir Sanstha, Annabhau Sathe Nagar Kalyan",
+				"municipalitySubdivision": "Vad Ghar",
+				"municipality": "Kalyan Dombivli",
+				"countrySecondarySubdivision": "Thane",
+				"countrySubdivision": "Maharashtra",
+				"postalCode": "421301",
+				"countryCode": "IN",
+				"country": "India",
+				"countryCodeISO3": "IND",
+				"freeformAddress": "Wadeghar Gaon Road, Balak Mandir Sanstha, Annabhau Sathe Nagar Kalyan, Vad Ghar, Kalyan Dombivli 421301, Maharashtra",
+				"localName": "Kalyan Dombivli"
+			},
+			"position": {
+				"lat": 19.25411,
+				"lon": 73.12064
+			},
+			"viewport": {
+				"topLeftPoint": {
+					"lat": 19.25501,
+					"lon": 73.11969
+				},
+				"btmRightPoint": {
+					"lat": 19.25321,
+					"lon": 73.12159
+				}
+			},
+			"entryPoints": [
+				{
+					"type": "main",
+					"position": {
+						"lat": 19.25394,
+						"lon": 73.12065
+					}
+				}
+			]
+		},
+		{
+			"type": "POI",
+			"id": "g6JpZK8zNTYwMDkwMzc1NDUyODGhY6NJTkShdqdVbmlmaWVk",
+			"score": 99.9144592285,
+			"dist": 85.54375145714741,
+			"info": "search:ta:356009037545281-IN",
+			"poi": {
+				"name": "Balak Mandir Sanstha",
+				"categorySet": [
+					{
+						"id": 7372004
+					}
+				],
+				"categories": [
+					"pre school",
+					"school"
+				],
+				"classifications": [
+					{
+						"code": "SCHOOL",
+						"names": [
+							{
+								"nameLocale": "en-US",
+								"name": "pre school"
+							},
+							{
+								"nameLocale": "en-US",
+								"name": "school"
+							}
+						]
+					}
+				]
+			},
+			"address": {
+				"streetName": "Wadeghar Gaon Road, Annabhau Sathe Nagar Kalyan",
+				"municipalitySubdivision": "Vad Ghar",
+				"municipality": "Kalyan Dombivli",
+				"countrySecondarySubdivision": "Thane",
+				"countrySubdivision": "Maharashtra",
+				"postalCode": "421301",
+				"countryCode": "IN",
+				"country": "India",
+				"countryCodeISO3": "IND",
+				"freeformAddress": "Wadeghar Gaon Road, Annabhau Sathe Nagar Kalyan, Vad Ghar, Kalyan Dombivli 421301, Maharashtra",
+				"localName": "Kalyan Dombivli"
+			},
+			"position": {
+				"lat": 19.25475,
+				"lon": 73.12066
+			},
+			"viewport": {
+				"topLeftPoint": {
+					"lat": 19.25565,
+					"lon": 73.11971
+				},
+				"btmRightPoint": {
+					"lat": 19.25385,
+					"lon": 73.12161
+				}
+			},
+			"entryPoints": [
+				{
+					"type": "main",
+					"position": {
+						"lat": 19.25483,
+						"lon": 73.12065
+					}
+				}
+			]
+		},
+		{
+			"type": "POI",
+			"id": "g6JpZK8zNTYwMDkwMjU4NzIzNTKhY6NJTkShdqdVbmlmaWVk",
+			"score": 99.9125976563,
+			"dist": 87.39900492991147,
+			"info": "search:ta:356009025872352-IN",
+			"poi": {
+				"name": "S V S Enterprises",
+				"categorySet": [
+					{
+						"id": 9361015
+					}
+				],
+				"categories": [
+					"real estate agents",
+					"shop"
+				],
+				"classifications": [
+					{
+						"code": "SHOP",
+						"names": [
+							{
+								"nameLocale": "en-US",
+								"name": "shop"
+							},
+							{
+								"nameLocale": "en-US",
+								"name": "real estate agents"
+							}
+						]
+					}
+				]
+			},
+			"address": {
+				"streetName": "Wadeghar Main Road, Khadakpada",
+				"municipalitySubdivision": "Vad Ghar",
+				"municipality": "Kalyan Dombivli",
+				"countrySecondarySubdivision": "Thane",
+				"countrySubdivision": "Maharashtra",
+				"postalCode": "421301",
+				"countryCode": "IN",
+				"country": "India",
+				"countryCodeISO3": "IND",
+				"freeformAddress": "Wadeghar Main Road, Khadakpada, Vad Ghar, Kalyan Dombivli 421301, Maharashtra",
+				"localName": "Kalyan Dombivli"
+			},
+			"position": {
+				"lat": 19.25473,
+				"lon": 73.12072
+			},
+			"viewport": {
+				"topLeftPoint": {
+					"lat": 19.25563,
+					"lon": 73.11977
+				},
+				"btmRightPoint": {
+					"lat": 19.25383,
+					"lon": 73.12167
+				}
+			},
+			"entryPoints": [
+				{
+					"type": "main",
+					"position": {
+						"lat": 19.25483,
+						"lon": 73.12073
+					}
+				}
+			]
+		},
+		{
+			"type": "POI",
+			"id": "g6JpZK8zNTYwMDkwMjUzNDQ0NjihY6NJTkShdqdVbmlmaWVk",
+			"score": 99.9112167358,
+			"dist": 88.78037414443027,
+			"info": "search:ta:356009025344468-IN",
+			"poi": {
+				"name": "Jaleshwar Internet Service Provider",
+				"categorySet": [
+					{
+						"id": 9352040
+					}
+				],
+				"categories": [
+					"cable telephone",
+					"company"
+				],
+				"classifications": [
+					{
+						"code": "COMPANY",
+						"names": [
+							{
+								"nameLocale": "en-US",
+								"name": "company"
+							},
+							{
+								"nameLocale": "en-US",
+								"name": "cable telephone"
+							}
+						]
+					}
+				]
+			},
+			"address": {
+				"streetName": "Late Shri Shivram Vitthal Patil Marg",
+				"municipalitySubdivision": "Khadak Pada",
+				"municipality": "Kalyan Dombivli",
+				"countrySecondarySubdivision": "Thane",
+				"countrySubdivision": "Maharashtra",
+				"postalCode": "421301",
+				"countryCode": "IN",
+				"country": "India",
+				"countryCodeISO3": "IND",
+				"freeformAddress": "Late Shri Shivram Vitthal Patil Marg, Khadak Pada, Kalyan Dombivli 421301, Maharashtra",
+				"localName": "Kalyan Dombivli"
+			},
+			"position": {
+				"lat": 19.25395,
+				"lon": 73.12104
+			},
+			"viewport": {
+				"topLeftPoint": {
+					"lat": 19.25485,
+					"lon": 73.12009
+				},
+				"btmRightPoint": {
+					"lat": 19.253050000000003,
+					"lon": 73.12199
+				}
+			},
+			"entryPoints": [
+				{
+					"type": "main",
+					"position": {
+						"lat": 19.25393,
+						"lon": 73.12098
+					}
+				}
+			]
+		},
+		{
+			"type": "POI",
+			"id": "g6JpZK8zNTYwMDkwMjU3MjY0NzmhY6NJTkShdqdVbmlmaWVk",
+			"score": 99.8993453979,
+			"dist": 100.65311310448402,
+			"info": "search:ta:356009025726479-IN",
+			"poi": {
+				"name": "Jai Gurudev Kirana Store",
+				"categorySet": [
+					{
+						"id": 9361023
+					}
+				],
+				"categories": [
+					"food drinks: grocers",
+					"shop"
+				],
+				"classifications": [
+					{
+						"code": "SHOP",
+						"names": [
+							{
+								"nameLocale": "en-US",
+								"name": "shop"
+							},
+							{
+								"nameLocale": "en-US",
+								"name": "food drinks: grocers"
+							}
+						]
+					}
+				]
+			},
+			"address": {
+				"streetName": "Late Shri Shivram Vitthal Patil Marg",
+				"municipalitySubdivision": "Khadak Pada",
+				"municipality": "Kalyan Dombivli",
+				"countrySecondarySubdivision": "Thane",
+				"countrySubdivision": "Maharashtra",
+				"postalCode": "421301",
+				"countryCode": "IN",
+				"country": "India",
+				"countryCodeISO3": "IND",
+				"freeformAddress": "Late Shri Shivram Vitthal Patil Marg, Khadak Pada, Kalyan Dombivli 421301, Maharashtra",
+				"localName": "Kalyan Dombivli"
+			},
+			"position": {
+				"lat": 19.25382,
+				"lon": 73.12112
+			},
+			"viewport": {
+				"topLeftPoint": {
+					"lat": 19.25472,
+					"lon": 73.12017
+				},
+				"btmRightPoint": {
+					"lat": 19.25292,
+					"lon": 73.12207
+				}
+			},
+			"entryPoints": [
+				{
+					"type": "main",
+					"position": {
+						"lat": 19.25378,
+						"lon": 73.12106
+					}
+				}
+			]
+		},
+		{
+			"type": "POI",
+			"id": "g6JpZK8zNTYwMDkwMjUwMTQ2MTShY6NJTkShdqdVbmlmaWVk",
+			"score": 99.8937988281,
+			"dist": 106.19933112480213,
+			"info": "search:ta:356009025014614-IN",
+			"poi": {
+				"name": "Biswanath Kirana & General Store",
+				"categorySet": [
+					{
+						"id": 9361023
+					}
+				],
+				"categories": [
+					"food drinks: grocers",
+					"shop"
+				],
+				"classifications": [
+					{
+						"code": "SHOP",
+						"names": [
+							{
+								"nameLocale": "en-US",
+								"name": "shop"
+							},
+							{
+								"nameLocale": "en-US",
+								"name": "food drinks: grocers"
+							}
+						]
+					}
+				]
+			},
+			"address": {
+				"streetName": "Late Shri Shivram Vitthal Patil Marg",
+				"municipalitySubdivision": "Khadak Pada",
+				"municipality": "Kalyan Dombivli",
+				"countrySecondarySubdivision": "Thane",
+				"countrySubdivision": "Maharashtra",
+				"postalCode": "421301",
+				"countryCode": "IN",
+				"country": "India",
+				"countryCodeISO3": "IND",
+				"freeformAddress": "Late Shri Shivram Vitthal Patil Marg, Khadak Pada, Kalyan Dombivli 421301, Maharashtra",
+				"localName": "Kalyan Dombivli"
+			},
+			"position": {
+				"lat": 19.25367,
+				"lon": 73.12111
+			},
+			"viewport": {
+				"topLeftPoint": {
+					"lat": 19.25457,
+					"lon": 73.12016
+				},
+				"btmRightPoint": {
+					"lat": 19.25277,
+					"lon": 73.12206
+				}
+			},
+			"entryPoints": [
+				{
+					"type": "main",
+					"position": {
+						"lat": 19.25369,
+						"lon": 73.12114
+					}
+				}
+			]
+		},
+		{
+			"type": "POI",
+			"id": "g6JpZK8zNTYwMDkwMjQ2OTg0NjGhY6NJTkShdqdVbmlmaWVk",
+			"score": 99.8843612671,
+			"dist": 115.63518218315558,
+			"info": "search:ta:356009024698461-IN",
+			"poi": {
+				"name": "Silk Evergreen Parlour",
+				"categorySet": [
+					{
+						"id": 9361067
+					}
+				],
+				"categories": [
+					"beauty salon",
+					"shop"
+				],
+				"classifications": [
+					{
+						"code": "SHOP",
+						"names": [
+							{
+								"nameLocale": "en-US",
+								"name": "shop"
+							},
+							{
+								"nameLocale": "en-US",
+								"name": "beauty salon"
+							}
+						]
+					}
+				]
+			},
+			"address": {
+				"streetName": "Late Shri Shivram Vitthal Patil Marg",
+				"municipalitySubdivision": "Khadak Pada",
+				"municipality": "Kalyan Dombivli",
+				"countrySecondarySubdivision": "Thane",
+				"countrySubdivision": "Maharashtra",
+				"postalCode": "421301",
+				"countryCode": "IN",
+				"country": "India",
+				"countryCodeISO3": "IND",
+				"freeformAddress": "Late Shri Shivram Vitthal Patil Marg, Khadak Pada, Kalyan Dombivli 421301, Maharashtra",
+				"localName": "Kalyan Dombivli"
+			},
+			"position": {
+				"lat": 19.25358,
+				"lon": 73.12116
+			},
+			"viewport": {
+				"topLeftPoint": {
+					"lat": 19.25448,
+					"lon": 73.12021
+				},
+				"btmRightPoint": {
+					"lat": 19.25268,
+					"lon": 73.12211
+				}
+			},
+			"entryPoints": [
+				{
+					"type": "main",
+					"position": {
+						"lat": 19.25364,
+						"lon": 73.1212
+					}
+				}
+			]
+		},
+		{
+			"type": "POI",
+			"id": "g6JpZK8zNTYwMDkwMjM5NTA1MTWhY6NJTkShdqdVbmlmaWVk",
+			"score": 99.8625335693,
+			"dist": 137.46529488339693,
+			"info": "search:ta:356009023950515-IN",
+			"poi": {
+				"name": "Jaleshwar Kirana & General Store",
+				"categorySet": [
+					{
+						"id": 9361023
+					}
+				],
+				"categories": [
+					"food drinks: grocers",
+					"shop"
+				],
+				"classifications": [
+					{
+						"code": "SHOP",
+						"names": [
+							{
+								"nameLocale": "en-US",
+								"name": "shop"
+							},
+							{
+								"nameLocale": "en-US",
+								"name": "food drinks: grocers"
+							}
+						]
+					}
+				]
+			},
+			"address": {
+				"streetName": "Late Shri Shivram Vitthal Patil Marg",
+				"municipalitySubdivision": "Khadak Pada",
+				"municipality": "Kalyan Dombivli",
+				"countrySecondarySubdivision": "Thane",
+				"countrySubdivision": "Maharashtra",
+				"postalCode": "421301",
+				"countryCode": "IN",
+				"country": "India",
+				"countryCodeISO3": "IND",
+				"freeformAddress": "Late Shri Shivram Vitthal Patil Marg, Khadak Pada, Kalyan Dombivli 421301, Maharashtra",
+				"localName": "Kalyan Dombivli"
+			},
+			"position": {
+				"lat": 19.25332,
+				"lon": 73.12122
+			},
+			"viewport": {
+				"topLeftPoint": {
+					"lat": 19.25422,
+					"lon": 73.12027
+				},
+				"btmRightPoint": {
+					"lat": 19.25242,
+					"lon": 73.12217
+				}
+			},
+			"entryPoints": [
+				{
+					"type": "main",
+					"position": {
+						"lat": 19.25332,
+						"lon": 73.12127
+					}
+				}
+			]
+		},
+		{
+			"type": "POI",
+			"id": "g6JpZK8zNTYwMDkwMjQ3ODQyOTWhY6NJTkShdqdVbmlmaWVk",
+			"score": 99.8597717285,
+			"dist": 140.22478517625837,
+			"info": "search:ta:356009024784295-IN",
+			"poi": {
+				"name": "Jai Prakash Kirana & General Store",
+				"categorySet": [
+					{
+						"id": 9361023
+					}
+				],
+				"categories": [
+					"food drinks: grocers",
+					"shop"
+				],
+				"classifications": [
+					{
+						"code": "SHOP",
+						"names": [
+							{
+								"nameLocale": "en-US",
+								"name": "shop"
+							},
+							{
+								"nameLocale": "en-US",
+								"name": "food drinks: grocers"
+							}
+						]
+					}
+				]
+			},
+			"address": {
+				"streetName": "Late Shri Shivram Vitthal Patil Marg",
+				"municipalitySubdivision": "Khadak Pada",
+				"municipality": "Kalyan Dombivli",
+				"countrySecondarySubdivision": "Thane",
+				"countrySubdivision": "Maharashtra",
+				"postalCode": "421301",
+				"countryCode": "IN",
+				"country": "India",
+				"countryCodeISO3": "IND",
+				"freeformAddress": "Late Shri Shivram Vitthal Patil Marg, Khadak Pada, Kalyan Dombivli 421301, Maharashtra",
+				"localName": "Kalyan Dombivli"
+			},
+			"position": {
+				"lat": 19.25532,
+				"lon": 73.12058
+			},
+			"viewport": {
+				"topLeftPoint": {
+					"lat": 19.25622,
+					"lon": 73.11963
+				},
+				"btmRightPoint": {
+					"lat": 19.25442,
+					"lon": 73.12153
+				}
+			},
+			"entryPoints": [
+				{
+					"type": "main",
+					"position": {
+						"lat": 19.25528,
+						"lon": 73.12052
+					}
+				}
+			]
+		},
+		{
+			"type": "POI",
+			"id": "g6JpZK8zNTYwMDkwMzc5NjQ3NzWhY6NJTkShdqdVbmlmaWVk",
+			"score": 99.8455581665,
+			"dist": 154.44199763899813,
+			"info": "search:ta:356009037964775-IN",
+			"poi": {
+				"name": "Dr Kedar J Paranjape",
+				"categorySet": [
+					{
+						"id": 9373002
+					}
+				],
+				"categories": [
+					"doctor",
+					"general practitioner"
+				],
+				"classifications": [
+					{
+						"code": "DOCTOR",
+						"names": [
+							{
+								"nameLocale": "en-US",
+								"name": "general practitioner"
+							},
+							{
+								"nameLocale": "en-US",
+								"name": "doctor"
+							}
+						]
+					}
+				]
+			},
+			"address": {
+				"streetName": "Late Shri Shivram Vitthal Patil Marg",
+				"municipalitySubdivision": "Khadak Pada",
+				"municipality": "Kalyan Dombivli",
+				"countrySecondarySubdivision": "Thane",
+				"countrySubdivision": "Maharashtra",
+				"postalCode": "421301",
+				"countryCode": "IN",
+				"country": "India",
+				"countryCodeISO3": "IND",
+				"freeformAddress": "Late Shri Shivram Vitthal Patil Marg, Khadak Pada, Kalyan Dombivli 421301, Maharashtra",
+				"localName": "Kalyan Dombivli"
+			},
+			"position": {
+				"lat": 19.25329,
+				"lon": 73.1214
+			},
+			"viewport": {
+				"topLeftPoint": {
+					"lat": 19.25419,
+					"lon": 73.12045
+				},
+				"btmRightPoint": {
+					"lat": 19.25239,
+					"lon": 73.12235
+				}
+			},
+			"entryPoints": [
+				{
+					"type": "main",
+					"position": {
+						"lat": 19.25328,
+						"lon": 73.12127
+					}
+				}
+			]
+		}
+	]
+}

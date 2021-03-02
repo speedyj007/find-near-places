@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping>
+  <class name="find_near_path.User" table="findnearplace">
+  
+       <id name="id">
+      <generator class="assigned"/>
+    </id>
+    
+      <property name="name"/>
+      <property name="dist"/>
+      <property name="lat"/>
+      <property name="log"/>
+  </class>
+</hibernate-mapping>
